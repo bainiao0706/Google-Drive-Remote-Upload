@@ -3,8 +3,6 @@ This is a Google Drive offline file upload script based on Google Colab./这是�
 
 # ☁️ Colab to Google Drive Uploader
 
-[中文版](#中文) | [English](#english)
-
 ---
 
 ## 中文
@@ -21,28 +19,6 @@ This is a Google Drive offline file upload script based on Google Colab./这是�
 5. 等待云端下载完成，文件将自动保存在您的云端硬盘中！
 
 ### 🙏 致谢
-<a href="https://github.com/KarsonJo">
-  <img src="https://github.com/KarsonJo.png" width="50px;" alt="KarsonJo"/>
-  <br />
-  <sub><b>KarsonJo</b></sub>
-</a>
-
----
-
-## English
-
-### 📝 Introduction
-This project provides a convenient Google Colab script. It utilizes the Colab computing environment and Google's servers to upload files directly to your Google Drive offline.
-
-
-### 🚀 How to Use
-1. Open the `.ipynb` script of this project in Google Colab.
-2. Run the cell to authorize and mount your Google Drive.
-3. Enter the direct download link of the file you want to upload.
-4. Change file save location.
-5. Wait for the cloud download to finish, and the file will be automatically saved to your Drive!
-
-### 🙏 Acknowledgments
 <a href="https://github.com/KarsonJo">
   <img src="https://github.com/KarsonJo.png" width="50px;" alt="KarsonJo"/>
   <br />
