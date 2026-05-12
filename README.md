@@ -3,7 +3,7 @@
 
 
 ### 📝 项目简介
-本项目提供了一个基于 Google Colab 的便捷脚本。它可以通过 Colab 的计算机环境和 Google 的服务器，将文件直接离线上传到你的 Google 云端硬盘（Google Drive）中。
+本项目提供了一个基于 Google Colab 的便捷脚本。它可以通过 Colab 的计算机环境和 Google 的服务器，将文件直接离线下载到你的 Google 云端硬盘（Google Drive）中。
 
 
 ### 🚀 如何使用
