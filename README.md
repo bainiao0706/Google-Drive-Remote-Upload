@@ -17,10 +17,15 @@ This is a Google Drive offline file upload script based on Google Colab./这是�
 1. 在 Google Colab 中打开本项目的 `.ipynb` 脚本。
 2. 运行代码块以授权并挂载您的 Google Drive。
 3. 输入您需要上传的文件的直链地址。
-4. 等待云端下载完成，文件将自动保存在您的云端硬盘中！
+4. 修改文件保存地址。
+5. 等待云端下载完成，文件将自动保存在您的云端硬盘中！
 
 ### 🙏 致谢
-敬谢：Karson Zhong
+<a href="https://github.com/KarsonJo">
+  <img src="https://github.com/KarsonJo.png" width="50px;" alt="KarsonJo"/>
+  <br />
+  <sub><b>KarsonJo</b></sub>
+</a>
 
 ---
 
@@ -34,10 +39,15 @@ This project provides a convenient Google Colab script. It utilizes the Colab co
 1. Open the `.ipynb` script of this project in Google Colab.
 2. Run the cell to authorize and mount your Google Drive.
 3. Enter the direct download link of the file you want to upload.
-4. Wait for the cloud download to finish, and the file will be automatically saved to your Drive!
+4. Change file save location.
+5. Wait for the cloud download to finish, and the file will be automatically saved to your Drive!
 
 ### 🙏 Acknowledgments
-Special thanks to: Karson Zhong
+<a href="https://github.com/KarsonJo">
+  <img src="https://github.com/KarsonJo.png" width="50px;" alt="KarsonJo"/>
+  <br />
+  <sub><b>KarsonJo</b></sub>
+</a>
 
 ---
 *License: GUN*
