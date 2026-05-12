@@ -1,9 +1,6 @@
 # Google-Drive-Remote-Upload
-This is a Google Drive offline file upload script based on Google Colab./这是一个基于Google Colab的Google云端硬盘的文件离线上传脚本。
+这是一个基于Google Colab的Google云端硬盘的文件离线上传脚本。
 
-# ☁️ Colab to Google Drive Uploader
-
----
 
 ### 📝 项目简介
 本项目提供了一个基于 Google Colab 的便捷脚本。它可以通过 Colab 的计算机环境和 Google 的服务器，将文件直接离线上传到你的 Google 云端硬盘（Google Drive）中。
